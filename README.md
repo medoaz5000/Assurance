@@ -1,0 +1,1 @@
+This is a short project on how to apply for a car insurance contract. This is my first programming project, this project was full of errors in the project organization, structure... , However, I managed to make it a success. Now work on developing it agin.
