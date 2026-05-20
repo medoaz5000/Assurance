@@ -135,7 +135,7 @@ assurance/homepage/CLIENT
 
 ### Home Page
 
-![Home Page](image/https://github.com/medoaz5000/Assurance/blob/efc46817c0e825d3ba9cde86cbc756fea59a2e28/image/Home%20page.png)
+![Home Page](image/hpmepage.png)
 
 ### Login page
 
@@ -147,11 +147,11 @@ assurance/homepage/CLIENT
 
 ### Admin Dashboard
 
-![Dashboard Admin](image/https://github.com/medoaz5000/Assurance/blob/efc46817c0e825d3ba9cde86cbc756fea59a2e28/image/Admin%20Dashboard.png)
+![Dashboard Admin](image/Admin_Dashboard.png)
 
 ### User Dashboard
 
-![Dashboard User](image/https://github.com/medoaz5000/Assurance/blob/efc46817c0e825d3ba9cde86cbc756fea59a2e28/image/User%20Dashboard.png)
+![Dashboard User](image/User_Dashboard.png)
 
 ---
 
