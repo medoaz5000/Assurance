@@ -139,7 +139,7 @@ assurance/homepage/CLIENT
 
 ### Login page
 
-![Login](image/https://github.com/medoaz5000/Assurance/blob/efc46817c0e825d3ba9cde86cbc756fea59a2e28/image/Login.png)
+![Login](Login.png)
 
 ### Signup page
 
