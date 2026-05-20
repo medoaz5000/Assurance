@@ -11,7 +11,8 @@ This application helps users manage insurance services, customer information, an
 - Insurance policy management
 - Customer information management
 - Admin dashboard
-- Search and filter policies
+- User dashboard
+- Home Page
 - Responsive design
 - Secure database connection
 
@@ -49,7 +50,7 @@ xampp/htdocs/
 Open phpMyAdmin and create a database named:
 
 ```text
-insurance_db
+assurance_3
 ```
 
 ### 4. Import SQL File
@@ -57,7 +58,7 @@ insurance_db
 Import the SQL file located in:
 
 ```text
-database/insurance_db.sql
+assurance_3.sql
 ```
 
 ### 5. Start Server
@@ -71,29 +72,63 @@ from XAMPP Control Panel.
 ### 6. Open in Browser
 
 ```text
-http://localhost/assurance
+http://localhost/Assurance
 ```
 
 ---
 
 ## Project Structure
-
+- Admin :
 ```text
-assurance/
+Assurance/ADMIN
 │
-├── admin/
 ├── assets/
-├── css/
-├── js/
-├── database/
-├── includes/
-├── images/
+  ├── css/
+  ├── js/
+  ├── img/
+  └── vendor/
+├── doc/
+├── tc/
 ├── index.php
 ├── login.php
-├── register.php
-└── README.md
+├── config.php
+│...
 ```
-
+- Home Page :
+```text
+Assurance/homepage
+│
+├── CLIENT/
+├── assets/
+  ├── css/
+  ├── js/
+  ├── img/
+  └── vendor/
+├── index.php
+├── login.php
+├── signup.php
+├── config.php
+└── login/
+  ├── assets/
+  ├── css/
+  ├── js/
+  ├── img/
+  └── vendor/
+```
+- User :
+```text
+assurance/homepage/CLIENT
+│
+├── index.php
+├── assets/
+  ├── css/
+  ├── js/
+  ├── imag/
+  └── vendor/
+├── config.php
+├──  assurance.php
+│...
+```
 ---
 
 ## Screenshots
@@ -106,20 +141,21 @@ assurance/
 
 ![Dashboard](images/dashboard.png)
 
+### User Dashboard
+
+![Dashboard](images/dashboard.png)
+
 ---
 
 ## Future Improvements
 
-- Online payment integration
-- Email notifications
 - PDF policy generation
-- Multi-language support
 
 ---
 
 ## Author
 
-Your Name
+AZIZI Mohamed
 
 GitHub: https://github.com/medo5000
 
