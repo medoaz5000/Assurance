@@ -139,7 +139,7 @@ assurance/homepage/CLIENT
 
 ### Login page
 
-![Login](Login.png)
+![Login](image/Login.png)
 
 ### Signup page
 
