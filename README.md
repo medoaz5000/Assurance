@@ -150,7 +150,7 @@ assurance/homepage/CLIENT
 ## Future Improvements
 
 - PDF policy generation
-- Authentifacation
+- Authentification
 
 ---
 
