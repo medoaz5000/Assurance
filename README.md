@@ -153,7 +153,10 @@ assurance/homepage/CLIENT
 - Authentification
 
 ---
+## Errors
 
+
+---
 ## Author
 
 AZIZI Mohamed
