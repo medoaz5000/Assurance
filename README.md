@@ -135,7 +135,7 @@ assurance/homepage/CLIENT
 
 ### Home Page
 
-![Home Page](image/hpmepage.png)
+![Home Page](image/Homepage.png)
 
 ### Login page
 
