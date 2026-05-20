@@ -143,7 +143,7 @@ assurance/homepage/CLIENT
 
 ### Signup page
 
-![Signup](image/)
+![Signup](image/Singup.png)
 
 ### Admin Dashboard
 
