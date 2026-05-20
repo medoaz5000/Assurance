@@ -143,7 +143,7 @@ assurance/homepage/CLIENT
 
 ### Signup page
 
-![Signup](image/Singup.png)
+![Signup](image/Signup.png)
 
 ### Admin Dashboard
 
@@ -162,8 +162,12 @@ assurance/homepage/CLIENT
 
 ---
 ## Errors
-
-
+- make sure your config is : 
+```text
+$db = mysqli_connect("localhost","root","","assurance_3",3307);
+```
+also put this every config exists on this code for evite errors
+- Also I mistake in name files php, so check name file in link (aside in HTML) first after go search for name file php 
 ---
 ## Author
 
@@ -175,5 +179,5 @@ GitHub: https://github.com/medo5000
 
 ## License
 
-This project is for educational purposes.
+This project is for educational purposes, and this is my first project.
   
