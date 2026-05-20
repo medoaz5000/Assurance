@@ -83,10 +83,10 @@ http://localhost/Assurance
 Assurance/ADMIN
 │
 ├── assets/
-  ├── css/
-  ├── js/
-  ├── img/
-  └── vendor/
+│  ├── css/
+│  ├── js/
+│  ├── img/
+│  └── vendor/
 ├── doc/
 ├── tc/
 ├── index.php
@@ -100,10 +100,10 @@ Assurance/homepage
 │
 ├── CLIENT/
 ├── assets/
-  ├── css/
-  ├── js/
-  ├── img/
-  └── vendor/
+│  ├── css/
+│  ├── js/
+│  ├── img/
+│  └── vendor/
 ├── index.php
 ├── login.php
 ├── signup.php
@@ -121,10 +121,10 @@ assurance/homepage/CLIENT
 │
 ├── index.php
 ├── assets/
-  ├── css/
-  ├── js/
-  ├── imag/
-  └── vendor/
+│  ├── css/
+│  ├── js/
+│  ├── imag/
+│  └── vendor/
 ├── config.php
 ├──  assurance.php
 │...
